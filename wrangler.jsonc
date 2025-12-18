@@ -1,0 +1,6 @@
+{
+  "name": "libretv",
+  "compatibility_date": "2025-12-18",
+  "main": "src/index.ts",  // 或你的实际入口文件路径
+  "compatibility_flags": ["nodejs_compat"]
+}
